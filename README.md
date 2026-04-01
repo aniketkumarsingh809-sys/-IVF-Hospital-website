@@ -10,7 +10,7 @@ A modern  and responsive IVF hospital website showcasing fertility treatments, d
 - CSS
 - JavaScript
 ## 📸 Screenshot
-Screenshot 2026-03-28 221813.png
+![Screenshot](Screenshot 2026-03-28 221813.png)
 ## 🚀 Live Demo 
 (will be added soon)
 ## 📌 Author
