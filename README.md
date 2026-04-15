@@ -12,6 +12,6 @@ A modern  and responsive IVF hospital website showcasing fertility treatments, d
 ## 📸 Screenshot
 ![Screenshot](Screenshot.png)
 ## 🚀 Live Demo 
-(will be added soon)
+https://chipper-halva-0022cb.netlify.app/
 ## 📌 Author
 - Krish 
